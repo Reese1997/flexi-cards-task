@@ -1,5 +1,5 @@
 .card {
-  display: grid;
+  display: grid; 
 
   grid-template-rows: 210px 210px 80px;
   grid-template-areas: "image" "text" "stats";
